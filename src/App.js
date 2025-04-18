@@ -1,4 +1,3 @@
-// App.js
 import React, { useEffect, useState } from 'react';
 import RewardsTable from './components/RewardsTable';
 import TotalRewardsTable from './components/TotalRewardsTable';
@@ -19,12 +18,9 @@ const App = () => {
     const fetchData = async () => {
       try {
         const data = await fetchTransactions();
-        // console.log('Fetched Transactions:', data);
-
         setTransactions(data);
 
         const rewards = calculateRewardsData(data);
-        // console.log('Calculated Rewards Data:', rewards);
 
         setRewardData(rewards);
       } catch (err) {
