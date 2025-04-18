@@ -11,9 +11,11 @@ This React application calculates and displays customer reward points based on p
 
 ## 💡 Features
 
-- Calculates reward points using:
-  - 2 points per dollar spent over $100
-  - 1 point per dollar between $50 and $100
+- Calculates reward points using business rules:
+  - No points for purchases ≤ $50
+  - 1 point for every $1 between $51–$100
+  - 2 points for every $1 above $100
+
 - Displays 3 tables:
   - **Monthly Rewards**
   - **Total Rewards**

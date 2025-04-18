@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "customerId": "C001",
+    "customerName": "John Doe",
+    "purchaseDate": "2025-01-15",
+    "amount": 120,
+    "product": "Wireless Mouse"
+  },
+  {
+    "id": 2,
+    "customerId": "C002",
+    "customerName": "Jane Smith",
+    "purchaseDate": "2025-01-20",
+    "amount": 80,
+    "product": "Bluetooth Keyboard"
+  },
+  {
+    "id": 3,
+    "customerId": "C001",
+    "customerName": "John Doe",
+    "purchaseDate": "2025-02-10",
+    "amount": 60,
+    "product": "USB Hub"
+  },
+  {
+    "id": 4,
+    "customerId": "C002",
+    "customerName": "Jane Smith",
+    "purchaseDate": "2025-02-18",
+    "amount": 200,
+    "product": "Laptop Stand"
+  },
+  {
+    "id": 5,
+    "customerId": "C003",
+    "customerName": "Alice Johnson",
+    "purchaseDate": "2025-03-05",
+    "amount": 110,
+    "product": "External Hard Drive"
+  },
+  {
+    "id": 6,
+    "customerId": "C001",
+    "customerName": "John Doe",
+    "purchaseDate": "2025-03-12",
+    "amount": 45,
+    "product": "Webcam"
+  },
+  {
+    "id": 7,
+    "customerId": "C003",
+    "customerName": "Alice Johnson",
+    "purchaseDate": "2025-01-28",
+    "amount": 70,
+    "product": "Desk Lamp"
+  },
+  {
+    "id": 8,
+    "customerId": "C002",
+    "customerName": "Jane Smith",
+    "purchaseDate": "2025-03-19",
+    "amount": 95,
+    "product": "Ergonomic Chair"
+  }
+]
